@@ -1,0 +1,1 @@
+document.getElementsByClassName('AppHeader')[0].style.display="none";
