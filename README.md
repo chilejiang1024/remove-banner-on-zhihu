@@ -8,5 +8,7 @@ chrome 浏览器插件
 
 ![](https://github.com/chilejiang1024/remove-banner-on-zhihu/blob/master/heihei/1.png)
 
+安装:
 
+![](https://github.com/chilejiang1024/remove-banner-on-zhihu/blob/master/heihei/2.png)
 
