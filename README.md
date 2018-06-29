@@ -6,7 +6,7 @@ chrome 浏览器插件
 
 效果如下:
 
-
+![](https://github.com/chilejiang1024/remove-banner-on-zhihu/blob/master/heihei/1.png)
 
 
 
